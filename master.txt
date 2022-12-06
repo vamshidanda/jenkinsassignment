@@ -1,1 +1,3 @@
 Sample file 1
+
+This is sample text
